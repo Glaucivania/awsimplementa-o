@@ -27,6 +27,6 @@ Etapa 3: Governança e Alertas Financeiros
 
 
 
-## ConclusÃ£o
+## Conclusão
 A implementação de ferramentas na empresa Computer Industries tem como esperado a redução direta de até 30% nos custos fixos de nuvem, maior visibilidade sobre o desperdício de recursos e a automação da economia de dados, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
